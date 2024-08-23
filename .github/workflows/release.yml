@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - "master"
+      - "playground/nethernet"
     paths-ignore:
       - '.gitignore'
       - 'LICENSE'
